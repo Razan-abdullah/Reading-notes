@@ -14,11 +14,11 @@
 ##Code 301 - Intermediate Software Development
 
 
-###  [class01](./class01)
-###  [class02](./class02)
-###  [class03](./class03)
-###  [class04](./class04)
-###  [class05](./class05)
+###  [class01](./class01.md)
+###  [class02](./class02.md)
+###  [class03](./class03.md)
+###  [class04](./class04.md)
+###  [class05](./class05.md)
 
 
 --
