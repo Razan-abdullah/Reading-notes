@@ -20,6 +20,8 @@
 ###  [class04](./class04.md)
 ###  [class05](./class05.md)
 ###  [class06](./class06.md)
+###  [class07](./class07.md)
+###  [class08](./class08.md)
 
 
 
