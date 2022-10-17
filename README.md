@@ -26,8 +26,8 @@
 ---
 
 ## Code 401 - Advanced Software Development
-*   [class01](./class%20401/read05.md)
-*   [class02](./class%20401/read06.md)
+*   [class05 Oop part-1](./class%20401/read05.md)
+*   [class02 Oop-part2](./class%20401/read06.md)
 
 
 
