@@ -44,6 +44,11 @@ Class 08: Data Analysis with Pandas
 *   [class06 Oop-part2](./class%20401/read06.md)
 *   [class07 Data Analysis](./class%20401/read07.md)
 *   [class08 Data Analysis with Pandas](./class%20401/read08.md)
+*   [class09 Data structures](./class%20401/read09.md)
+*   [class10 Linear Regression in Python](./class%20401/rea10.md)
+*   [class11 seaborn ](./class%20401/read11.md)
+*   [class12 Stack & Queue](./class%20401/read12.md)
+
 
 
 
