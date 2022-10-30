@@ -48,6 +48,7 @@ Class 08: Data Analysis with Pandas
 *   [class10 Linear Regression in Python](./class%20401/rea10.md)
 *   [class11 seaborn ](./class%20401/read11.md)
 *   [class12 Stack & Queue](./class%20401/read12.md)
+*   [class13 Serverless Functions](./class%20401/read13.md)
 
 
 
